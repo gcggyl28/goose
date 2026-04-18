@@ -1,6 +1,6 @@
 module github.com/mfridman/goose
 
-go 1.21
+go 1.22
 
 require (
 	github.com/pressly/goose/v3 v3.17.0

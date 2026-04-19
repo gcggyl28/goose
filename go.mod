@@ -7,6 +7,7 @@ go 1.22
 // Note: pinned goose to v3.17.0 to study the migration runner internals.
 // TODO: upgrade to v3.18.x once I've finished reviewing the runner changes.
 // See my notes in NOTES.md for observations on the runner refactor between v3.17 and v3.18.
+// Update 2024-03: reviewed runner changes, ready to bump when time permits.
 require (
 	github.com/pressly/goose/v3 v3.17.0
 	github.com/spf13/cobra v1.8.0
